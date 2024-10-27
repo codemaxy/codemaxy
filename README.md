@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @codemaxy
+- 👀 I’m interested in Nextjs
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on OSS
+- ⚡ Fun fact: I hate JS
